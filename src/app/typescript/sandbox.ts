@@ -41,7 +41,7 @@ class PointClass {
     // Access modifiers: public, private, protected
     // private - access modifier that doesn't allows to change variable from outside the class
     // ? after the initial variable tell to compiler that this is optional parameter
-    constructor(private _x?: number, private _y?: number) { 
+    constructor(private _x?: number, private _y?: number) {
 
     }
 
